@@ -1,4 +1,4 @@
-#avance 1 
+# avance 1 
 
 Análisis a realizar: Filtrado y limpieza de datos y ensamblaje de Novo.
 
