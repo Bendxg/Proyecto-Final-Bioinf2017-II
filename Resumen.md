@@ -4,6 +4,8 @@ En este trabajo repliqué parte del trabajo de Meslin
 et al (2015), quienes ensamblaron el transcriptoma de la mariposa *Pieris rapae* utilizando RNA del órgano genital femenino, llamado Corpus bursae, y otros tejidos de esta especie con el fin de entender la evolución del Corpus bursae, el cual actúa de manera similar a un estómago. Para mi este estudio es interesante ya que el obtener este tipo de información permite identificar genes expresados en los órganos de estas especies y compararla con la información de genes expresados en otros órganos y especies, para estudiar su función, su orígen y evolución, e identificar las presiones selectivas que han llevado a esto.
 
 ![alt text](https://github.com/Bendxg/Proyecto-Final-Bioinf2017-II/blob/master/ButterflyRNA.png)
+FIgura 1. Tejidos de mariposas de donde se obtuvo el RNA
+
 ### Obtención de archivos y muestra
 
 Aunque las secuencias que utilizaron los autores no se encontraron en un repositorio, les escribí para pedirles estos datos. Los autores me envaron las secuencias de RNA que utilizaron, las cuales se encuentran en archivos, cada uno de RNA de distintos órganos y algunos de distintas condiciones del Corpus bursae. Estos archivos en total pesan alrededor de 60 GB, por lo que, aunque realicé los análisis con los datos completos, obtuve una muestra muy pequeña de estos datos para enviar estos resultados.
