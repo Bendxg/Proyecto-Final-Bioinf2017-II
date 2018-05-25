@@ -37,7 +37,11 @@ Los comandos utilizados en parte del análisis se encuentra en el script  `Trim`
 
 Para realizar el ensamblado del transcriptoma bajé también una imagen de docker, monté un volúmen en dode corremos el biocontenedor con trinity. El comando para hacer esto en trinity es un poco distinto a los otros programas, por lo que presentó dificultades. 
 
-Al correr el contenedor corrí el comando de ensamblado del transcriptoma de trinity con mis opciones,indicando que utilizamos muestras paired end. a su vez el comando de trinity es un poco confuso, ya que lo intenté correr de varias formas que no funcionaron antes de lograrlo, Obtuve el resultado de la muestra, el cual se encuentra en la carpeta `/trinity_out_dir`, mientras que los comandos se encuentran en el script  `Assambly`.
+Al correr el contenedor corrí el comando de ensamblado del transcriptoma de trinity con mis opciones,indicando que utilizamos muestras paired end. a su vez el comando de trinity es un poco confuso, ya que lo intenté correr de varias formas que no funcionaron antes de lograrlo, y con lo que se llevó a cabo el ensamblado del transcriptoma de Novo por Trinity (Figura 2). Obtuve el resultado de la muestra, el cual se encuentra en la carpeta `/trinity_out_dir`, mientras que los comandos se encuentran en el script  `Assambly`.
+
+![alt text] (https://github.com/Bendxg/Proyecto-Final-Bioinf2017-II/blob/master/Assambly.png)
+
+Figura 2. Proceso de ensamblado del transcriptoma de Novo en Trinity
 
 ## Discusión
 
