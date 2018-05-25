@@ -1,4 +1,4 @@
-#Avance 3
+# Avance 3
 
 He leido los manuales de FASTXtoolkit y de trinity, con los que realizaré los análisis, e identifiqué los comandos y las opciones que correré. También he estado organizando las carpetas con scripts y datos que utilizaré.
 
